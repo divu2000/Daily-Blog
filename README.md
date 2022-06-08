@@ -30,23 +30,23 @@
 ##  INTEGRATED CAPABILIY TEST AND ASP.NET CORE
 - We were given 2 days for preparation for ICT 
 ### What is asp.net core
--ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
+- ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
 
 <br>
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week16 : 23-May-2022 to 29-May-2022** 
+**Week15 : 16-May-2022 to 22-May-2022** 
 
 ## Angular
 ### What is Angular?
--Angular is a development platform, built on TypeScript.
+-  Angular is a development platform, built on TypeScript.
 
 As a platform, Angular includes:
 
--A component-based framework for building scalable web applications
--A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication, and more
--A suite of developer tools to help you develop, build, test, and update your code
+-  A component-based framework for building scalable web applications
+-  A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication, and more
+-  A suite of developer tools to help you develop, build, test, and update your code
 
 ### Angular essential Components
 
@@ -55,6 +55,7 @@ As a platform, Angular includes:
 - Dependency Injection
 
 -- Dependency injection lets you declare the dependencies of your TypeScript classes without taking care of their instantiation. Instead, Angular handles the instantiation for you. This design pattern lets you write more testable and flexible code. Even though understanding dependency injection is not critical to start using Angular, we strongly recommend it as a best practice and many aspects of Angular take advantage of it to some degree.
+
 
 
 
