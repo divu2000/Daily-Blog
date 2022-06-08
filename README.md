@@ -31,7 +31,9 @@
 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Week6 : 8-March-2022 to 14-March-2022**
+
    ##  C#
 
 - Install Visual Studio Code and learnt about that Platform.
@@ -67,7 +69,7 @@
 <br> 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week9 : 30-March-2022 to 5-April-2022* 
+**Week9 : 30-March-2022 to 5-April-2022**
    ##  Data Structures
    
 - Went through the Data Structures concept through Udemy Lectures.
