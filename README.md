@@ -17,20 +17,20 @@
 **Week2 : 9-Feb-2022 to 15-Feb-2022** 
 ## Introduction to HTML AND CSS
 ### What is HTML
-- HTML stands for Hyper Text Markup Language.
-- HTML is the standard markup language for creating Web pages.
-- HTML describes the structure of a Web page.
-- HTML elements tell the browser how to display the content.
-- HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
+-  HTML stands for Hyper Text Markup Language.
+-  HTML is the standard markup language for creating Web pages.
+-  HTML describes the structure of a Web page.
+-  HTML elements tell the browser how to display the content.
+-  HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
 ### What I did in HTML
-- In this I learnt about HTML Elements, Attributes, Tables, Classes and Forms in detail and did the practice on Visual Studio.
+-  In this I learnt about HTML Elements, Attributes, Tables, Classes and Forms in detail and did the practice on Visual Studio.
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week14 : 9-May-2022 to 15-May-2022** 
 ##  INTEGRATED CAPABILIY TEST AND ASP.NET CORE
-- We were given 2 days for preparation for ICT 
+-  We were given 2 days for preparation for ICT 
 ### What is asp.net core
-- ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
+-  ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
 
 <br>
 
@@ -58,6 +58,23 @@ As a platform, Angular includes:
 
 
 
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Week16 : 23-May-2022 to 30-May-2022** 
+##  Web API
+
+- Software Engineering Concepts.
+- Object Oriented Principles.
+- Object Oriented Analysis.
+- Object Oriented Design.
+- Types of Software Architecture.
+- UI Markup, Styling, RWD.
+- Database Concepts
+- Deadlocks
+- Microservices
+<br>
+<!----------------------------------------------------------------------------------------------------------------------------->
+**Week17 : 31-May-2022 to 7-June-2022**
+##  Enhancement Project
 
 
 
