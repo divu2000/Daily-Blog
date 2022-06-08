@@ -26,14 +26,58 @@
 ###  What I did in HTML
 
 -  In this I learnt about HTML Elements, Attributes, Tables, Classes and Forms in detail and did the practice on Visual Studio.
+
+
+
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-##  INTEGRATED CAPABILIY TEST AND ASP.NET CORE
+
+**Week 11: 13 April 2022 to 21 April 2022**
+## SQL SERVER
+- Table creation
+- CRUD Operations with Data Integrity
+- Constraints
+- Subqueries and Joins
+- Functions
+- Stored Procedures
+- Triggers
+<br>
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Week 12: 22-April-2022 to 28-April-2022**
+## Entity Framework
+- Introduction to Entity Framework
+- Building model with Database & Code first Approach
+- Building model Code first Approach
+- Fluent Api
+- Querying data using LINQ
+- Entity Framework Repository pattern
+
+<br>
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+
+**Week 13: 29-April-2022 to 8-May-2022**
+## ASP .Net with MVC
+- ASP.Net MVC Basics
+- Controllers and Actions
+- Data transfer
+- Data binding to UI & reusable content
+- Action Verbs and Selector
+- Entity Framework integration
+<br>
+<!----------------------------------------------------------------------------------------------------------------------------->
+
+**Week15 : 9-May-2022 to 15-May-2022** 
+##  Integrated Capability Test And ASP.NET CORE
 ###  ICT
 -  We were given 2 days for preparation for ICT 
 ### What is asp.net core
 -  ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
+
+
+
 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
