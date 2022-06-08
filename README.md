@@ -223,7 +223,7 @@ ASP.NET Core is a cross-platform, high-performance, open-source framework for bu
 
 ## Angular
 ### What is Angular?
--  Angular is a development platform, built on TypeScript.
+Angular is a development platform, built on TypeScript.
 
 As a platform, Angular includes:
 
@@ -243,7 +243,7 @@ Learnings:
 ##  Web API
 
 ### What is Web API?
--  Web API (Application Programming Interface), as the name suggests, is an API that can be accessed over the Web using the HTTP protocol. It is basically considered the best platform for revealing or uncovering data and services to various different services. It is a tool that can be used to push data to a server and can be accessed by server code.
+Web API (Application Programming Interface), as the name suggests, is an API that can be accessed over the Web using the HTTP protocol. It is basically considered the best platform for revealing or uncovering data and services to various different services. It is a tool that can be used to push data to a server and can be accessed by server code.
 
 Learnings :
 - Learnt about the RESTful services, Web API And Microservices
