@@ -49,10 +49,12 @@ As a platform, Angular includes:
 -A suite of developer tools to help you develop, build, test, and update your code
 
 ### Angular essential Components
+
 - Component
--Templates
--Dependency Injection
-Dependency injection lets you declare the dependencies of your TypeScript classes without taking care of their instantiation. Instead, Angular handles the instantiation for you. This design pattern lets you write more testable and flexible code. Even though understanding dependency injection is not critical to start using Angular, we strongly recommend it as a best practice and many aspects of Angular take advantage of it to some degree.
+- Templates
+- Dependency Injection
+
+-- Dependency injection lets you declare the dependencies of your TypeScript classes without taking care of their instantiation. Instead, Angular handles the instantiation for you. This design pattern lets you write more testable and flexible code. Even though understanding dependency injection is not critical to start using Angular, we strongly recommend it as a best practice and many aspects of Angular take advantage of it to some degree.
 
 
 
