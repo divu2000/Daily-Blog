@@ -12,7 +12,7 @@
 - Database Concepts
 - Deadlocks
 - Microservices
-- Gone through all the listed concepts 
+Gone through all the listed concepts 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week 2 : 9-Feb-2022 to 15-Feb-2022** 
@@ -27,7 +27,7 @@ HTML5 is a markup language used for structuring and presenting content on the Wo
 - Learnt about HTML attributes, styles, formatting. Also learnt about HTML APIS such as HTML Geolocation
 - Also learnt about how to style the pages using CSS3
 - Made a simple website using HTML5 and CSS3
-- Practiced hands-on given by the company
+- Practiced hands-on 
 
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 **Week 3 : 16-Feb-2022 to 22-Feb-2022** 
@@ -49,11 +49,11 @@ jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and 
 
 - Started with the *introduction to Jquery, Element Selectors, Manipulating the DOM  I –Inserting,Replacing and Removing Elements, Manipulating the DOM II –Changing Element Data and CSS*
 - Then went on to learn about Events(Handling Mouse Events & Keyboard Events) and Forms
-- Practiced hands-on given by the company
+- Practiced hands-on 
 
 
 **Week 4 : 23-Feb-2022 to 28-Feb-2022** 
-### Brief Intro about Bootstrap
+## Brief Intro about Bootstrap
 
 It is a front-end framework used for easier and faster web development. It includes HTML and CSS based design templates for typography, forms, buttons, tables, navigation, modals, image carousels and many others. It can also use JavaScript plug-ins. It facilitates you to create responsive designs.
 
@@ -61,21 +61,17 @@ It is a front-end framework used for easier and faster web development. It inclu
 - Then went on to learn about how to design a form, Bootstrap Typography, Bootstrap Panel, Nested Containers
 - In additional learning we learnt about RWD Introduction, Media Queries, RWD Viewport
 - We learnt about some more topics such as Navbars and Flexbox, Magical Grid System from the Udemy course provided
-- Practiced hands-on given by the company
+- Practiced hands-on 
 
 
 **Week 5 : 1-March-2022 to 8-March-2022** 
-### Brief Intro about SQL
+## Brief Intro about SQL
 
 SQL is a standard language for storing, manipulating and retrieving data in databases
 
 - Learnt about the SQL commands such as DDL and DML
 - Also learnt about the data types and functions
 - Practiced hands-on given by the company
-
-
-
-
 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
@@ -110,12 +106,8 @@ Learnings:
 <br>
 
 
-
-
-
-
 <!----------------------------------------------------------------------------------------------------------------------------->
-*Week8 : 23-March-2022 to 29-March-2022* 
+**Week8 : 23-March-2022 to 29-March-2022**
    ##  ADO.NET
    ### What is ADO.NET?
    ADO.NET is a module of .Net Framework which is used to establish connection between application and data sources. Data sources can be such as SQL Server and XML.   
@@ -179,8 +171,11 @@ Learnings:
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Week 11 : 13 April 2022 to 21 April 2022**
+**Week 11: 13 April 2022 to 21 April 2022**
 ## SQL SERVER
+### What is SQL?
+SQL is Structured Query Language, which is a computer language for storing, manipulating and retrieving data stored in a relational database. SQL is the standard language for Relational Database System.
+Learnings:
 - Table creation
 - CRUD Operations with Data Integrity
 - Constraints
@@ -191,8 +186,12 @@ Learnings:
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Week 12 : 22-April-2022 to 28-April-2022**
+
+**Week 12: 22 April 2022 to 28 April 2022**
 ## Entity Framework
+### What is Entity Framework?
+Entity Framework (EF) is an object-relational mapper that enables .NET developers to work with relational data using domain-specific objects. It eliminates the need for most of the data-access code that developers usually need to write.
+Learnings:
 - Introduction to Entity Framework
 - Building model with Database & Code first Approach
 - Building model Code first Approach
@@ -204,8 +203,12 @@ Learnings:
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Week 13 : 29-April-2022 to 8-May-2022**
+**Week 13: 29 April 2022 to 8 May 2022**
 ## ASP .Net with MVC
+### What is ASP .Net MVC?
+ASP.NET MVC is basically a web development framework from Microsoft, which combines the features of MVC (Model-View-Controller) architecture, the most up-to-date ideas and techniques from Agile development, and the best parts of the existing ASP.NET platform.
+ASP.NET MVC is not something, which is built from ground zero. It is a complete alternative to traditional ASP.NET Web Forms. It is built on the top of ASP.NET, so developers enjoy almost all the ASP.NET features while building the MVC application.
+Learnings:
 - ASP.Net MVC Basics
 - Controllers and Actions
 - Data transfer
