@@ -15,21 +15,20 @@
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week2 : 9-Feb-2022 to 15-Feb-2022** 
-## Introduction to HTML AND CSS
-### What is HTML
+##  Introduction to HTML AND CSS
+###  What is HTML
+
 -  HTML stands for Hyper Text Markup Language.
 -  HTML is the standard markup language for creating Web pages.
 -  HTML describes the structure of a Web page.
 -  HTML elements tell the browser how to display the content.
 -  HTML elements label pieces of content such as "this is a heading", "this is a paragraph", "this is a link", etc.
-### What I did in HTML
+###  What I did in HTML
+
 -  In this I learnt about HTML Elements, Attributes, Tables, Classes and Forms in detail and did the practice on Visual Studio.
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-<br>
-<!----------------------------------------------------------------------------------------------------------------------------->
-**Week14 : 9-May-2022 to 15-May-2022** 
 ##  INTEGRATED CAPABILIY TEST AND ASP.NET CORE
 ###  ICT
 -  We were given 2 days for preparation for ICT 
