@@ -26,6 +26,9 @@
 -  In this I learnt about HTML Elements, Attributes, Tables, Classes and Forms in detail and did the practice on Visual Studio.
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
+
+<br>
+<!----------------------------------------------------------------------------------------------------------------------------->
 **Week14 : 9-May-2022 to 15-May-2022** 
 ##  INTEGRATED CAPABILIY TEST AND ASP.NET CORE
 -  We were given 2 days for preparation for ICT 
@@ -33,8 +36,6 @@
 -  ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
 
 <br>
-
-
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week15 : 16-May-2022 to 22-May-2022** 
 
@@ -74,7 +75,7 @@ As a platform, Angular includes:
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week17 : 31-May-2022 to 7-June-2022**
-##  Enhancement Project
+##   Enhancement Project
 
 
 
