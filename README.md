@@ -39,6 +39,11 @@
 
    ##  C#
 
+   ### What is C#?
+   C# is a strongly typed object-oriented programming language. C# is open source, simple, modern, flexible, and versatile. Key characteristics of C# language include:
+   Modern and easy, Fast and open source, Cross platform, Safe, Versatile, Evolving.
+
+Learnings:   
 - Install Visual Studio Code and learnt about that Platform.
 - Learnt about Syntax, variable, Keywords, oprators, Methods of C#. 
 - Then studied about Conditional statements, loops, classes and objects from udemy lectures.
@@ -59,10 +64,37 @@
 - Practiced hands-on.
 <br>
 
+
+
+
+
+
 <!----------------------------------------------------------------------------------------------------------------------------->
+*Week8 : 23-March-2022 to 29-March-2022* 
+   ##  ADO.NET
+   ### What is ADO.NET?
+   ADO.NET is a module of .Net Framework which is used to establish connection between application and data sources. Data sources can be such as SQL Server and XML.   
+   ADO.NET consists of classes that can be used to connect, retrieve, insert and delete data.
+   
+Learnings:
+- Went through the ADO.NETarning pdf given by the Company and learnt about its objects.
+- learnt about the ADO.NET Data Providers. Itis used to connect to the database, execute commands and retrieve the record.
+- Studied about ADO.NET SQL Server. This tool is used to handle database.
+- Another Concept is ADO.NET Connection. It is used to establish an open connection to the SQL Server database.
+- Also studied about ADO.NET Data Reader and  ADO.NET Data Adapter.
+- Practiced hands-on.
+<br> 
+
+
+<!----------------------------------------------------------------------------------------------------------------------------->
+
 **Week 8 : 23-March-2022 to 29-March-2022**
    ##  ADO.net
-
+   ### What is ADO.NET?
+   ADO.NET is a module of .Net Framework which is used to establish connection between application and data sources. Data sources can be such as SQL Server and XML.   
+   ADO.NET consists of classes that can be used to connect, retrieve, insert and delete data.
+   
+Learnings:
 - Went through the ADO.NETarning pdf given by the Company and learnt about its objects.
 - learnt about the ADO.NET Data Providers. Itis used to connect to the database, execute commands and retrieve the record.
 - Studied about ADO.NET SQL Server. This tool is used to handle database.
@@ -74,6 +106,12 @@
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week 9 : 30-March-2022 to 5-April-2022**
    ##  Data Structures
+   
+   ### Introduction to Data Structures
+   Data Structure can be defined as the group of data elements which provides an efficient way of storing and organising data in the computer so that it can be used 
+   efficiently. Some examples of Data Structures are arrays, Linked List, Stack, Queue, etc. Data Structures are widely used in almost every aspect of Computer Science
+   i.e. Operating System, Compiler Design, Artifical intelligence, Graphics and many more.
+   
    
 - Went through the Data Structures concept through Udemy Lectures.
 - learnt about Array, Stack.
@@ -145,8 +183,6 @@ ASP.NET Core is a cross-platform, high-performance, open-source framework for bu
 -  Practiced Hands-on.
 
 
-
-
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
@@ -168,14 +204,7 @@ Learnings:
 -  Differentiated between AngularJS and Angular
 -  Read about TypeScript
 -  Practiced hands-on
-
-
-
-
-
-
-
-
+<br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week 16 : 23-May-2022 to 30-May-2022** 
 ##  Web API
