@@ -1,6 +1,6 @@
 # Daily-Blog
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week1 : 1-Feb-2022 to 8-Feb-2022** 
+**Week 1 : 1-Feb-2022 to 8-Feb-2022** 
 ##  Engineering Concepts
 
 - Software Engineering Concepts.
@@ -16,7 +16,7 @@
 Gone through all the listed concepts 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week2 : 9-Feb-2022 to 15-Feb-2022** 
+**Week 2 : 9-Feb-2022 to 15-Feb-2022** 
 
 
 ## User Interface Design (HTML5 & CSS3)
@@ -109,7 +109,7 @@ Learnings:
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week8 : 23-March-2022 to 29-March-2022**
+**Week 8 : 23-March-2022 to 29-March-2022**
    ##  ADO.NET
    ### What is ADO.NET?
    ADO.NET is a module of .Net Framework which is used to establish connection between application and data sources. Data sources can be such as SQL Server and XML.   
@@ -124,23 +124,6 @@ Learnings:
 - Practiced hands-on.
 <br> 
 
-
-<!----------------------------------------------------------------------------------------------------------------------------->
-
-**Week 8 : 23-March-2022 to 29-March-2022**
-   ##  ADO.net
-   ### What is ADO.NET?
-   ADO.NET is a module of .Net Framework which is used to establish connection between application and data sources. Data sources can be such as SQL Server and XML.   
-   ADO.NET consists of classes that can be used to connect, retrieve, insert and delete data.
-   
-Learnings:
-- Went through the ADO.NETarning pdf given by the Company and learnt about its objects.
-- learnt about the ADO.NET Data Providers. Itis used to connect to the database, execute commands and retrieve the record.
-- Studied about ADO.NET SQL Server. This tool is used to handle database.
-- Another Concept is ADO.NET Connection. It is used to establish an open connection to the SQL Server database.
-- Also studied about ADO.NET Data Reader and  ADO.NET Data Adapter.
-- Practiced hands-on.
-<br> 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week 9 : 30-March-2022 to 5-April-2022**
@@ -205,7 +188,7 @@ Learnings:
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Week 13: 29 April 2022 to 8 May 2022**
+**Week 13 : 29 April 2022 to 8 May 2022**
 ## ASP .Net with MVC
 ### What is ASP .Net MVC?
 ASP.NET MVC is basically a web development framework from Microsoft, which combines the features of MVC (Model-View-Controller) architecture, the most up-to-date ideas and techniques from Agile development, and the best parts of the existing ASP.NET platform.
