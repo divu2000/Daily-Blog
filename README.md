@@ -31,6 +31,7 @@
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week14 : 9-May-2022 to 15-May-2022** 
 ##  INTEGRATED CAPABILIY TEST AND ASP.NET CORE
+###  ICT
 -  We were given 2 days for preparation for ICT 
 ### What is asp.net core
 -  ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
@@ -75,8 +76,10 @@ As a platform, Angular includes:
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week17 : 31-May-2022 to 7-June-2022**
+
 ##   Enhancement Project
--  we were given a project and we have to study and add new festures and run on our local system
+
+- we were given a project and we have to study and add new festures and run on our local system
 
 
 
