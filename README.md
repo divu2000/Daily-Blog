@@ -180,6 +180,10 @@ Learnings:
 **Week 16 : 23-May-2022 to 30-May-2022** 
 ##  Web API
 
+### What is Web API?
+-  Web API (Application Programming Interface), as the name suggests, is an API that can be accessed over the Web using the HTTP protocol. It is basically considered the best platform for revealing or uncovering data and services to various different services. It is a tool that can be used to push data to a server and can be accessed by server code.
+
+Learnings :
 - Learnt about the RESTful services, Web API And Microservices
 - Studied about HttpRequest and HttpResponse 
 - Also learnt about HttpStatusCodes
