@@ -133,10 +133,13 @@
 ##  Integrated Capability Test And ASP.NET CORE
 ###  ICT
 
-Integrated Capability Test is the Cognizant's Test for checking the ability of the interns and plays a major role in full time employment role
+Integrated Capability Test is the Cognizant's Test for checking the ability of the interns covering all the topics taught
 -  We were given 2 days for preparation for ICT 
-### What is asp.net core
--  ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
+### What is asp.net core?
+ASP.NET Core is a cross-platform, high-performance, open-source framework for building modern, cloud-enabled, Internet-connected apps.
+-  studied about Benefits of .Net Core, .Net Core components and its importance.
+-  Also learnt about MVC components in Web page rendering, Data binding concepts in .Net core.
+-  Practiced Hands-on.
 
 
 
