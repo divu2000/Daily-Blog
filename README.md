@@ -116,8 +116,10 @@ As a platform, Angular includes:
 - Database Concepts
 - Deadlocks
 - Microservices
+
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
+
 **Week17 : 31-May-2022 to 7-June-2022**
 
 ##   Enhancement Project
