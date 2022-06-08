@@ -14,9 +14,12 @@
 - Microservices
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week2 : 9-Feb-2022 to 15-Feb-2022** 
+**Week 2 : 9-Feb-2022 to 15-Feb-2022** 
+
 ##  Introduction to HTML AND CSS
+
 ###  What is HTML
+
 
 -  HTML stands for Hyper Text Markup Language.
 -  HTML is the standard markup language for creating Web pages.
@@ -32,7 +35,7 @@
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Week6 : 8-March-2022 to 14-March-2022**
+**Week 6 : 8-March-2022 to 14-March-2022**
 
    ##  C#
 
@@ -45,7 +48,7 @@
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week7 : 15-March-2022 to 22-March-2022** 
+**Week 7 : 15-March-2022 to 22-March-2022** 
    ##  C#
 
 - Continued the learning of C#. 
@@ -57,7 +60,7 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week8 : 23-March-2022 to 29-March-2022**
+**Week 8 : 23-March-2022 to 29-March-2022**
    ##  ADO.net
 
 - Went through the ADO.NETarning pdf given by the Company and learnt about its objects.
@@ -69,7 +72,7 @@
 <br> 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week9 : 30-March-2022 to 5-April-2022**
+**Week 9 : 30-March-2022 to 5-April-2022**
    ##  Data Structures
    
 - Went through the Data Structures concept through Udemy Lectures.
@@ -81,7 +84,7 @@
 <br>  
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week10 : 6-April-2022 to 12-April-2022**
+**Week 10 : 6-April-2022 to 12-April-2022**
    ##  Data Structures
    
 - Continued the learning of Data Structures from Udemy. 
@@ -93,7 +96,7 @@
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Week 11: 13 April 2022 to 21 April 2022**
+**Week 11 : 13 April 2022 to 21 April 2022**
 ## SQL SERVER
 - Table creation
 - CRUD Operations with Data Integrity
@@ -105,7 +108,7 @@
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Week 12: 22-April-2022 to 28-April-2022**
+**Week 12 : 22-April-2022 to 28-April-2022**
 ## Entity Framework
 - Introduction to Entity Framework
 - Building model with Database & Code first Approach
@@ -118,7 +121,7 @@
 <!----------------------------------------------------------------------------------------------------------------------------->
 
 
-**Week 13: 29-April-2022 to 8-May-2022**
+**Week 13 : 29-April-2022 to 8-May-2022**
 ## ASP .Net with MVC
 - ASP.Net MVC Basics
 - Controllers and Actions
@@ -129,7 +132,7 @@
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Week15 : 9-May-2022 to 15-May-2022** 
+**Week 14 : 9-May-2022 to 15-May-2022** 
 ##  Integrated Capability Test And ASP.NET CORE
 ###  ICT
 
@@ -146,7 +149,7 @@ ASP.NET Core is a cross-platform, high-performance, open-source framework for bu
 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week15 : 16-May-2022 to 22-May-2022** 
+**Week 15 : 16-May-2022 to 22-May-2022** 
 
 ## Angular
 ### What is Angular?
@@ -173,7 +176,7 @@ Learnings:
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week16 : 23-May-2022 to 30-May-2022** 
+**Week 16 : 23-May-2022 to 30-May-2022** 
 ##  Web API
 
 - Learnt about the RESTful services, Web API And Microservices
@@ -186,7 +189,7 @@ Learnings:
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
 
-**Week17 : 31-May-2022 to 7-June-2022**
+**Week 17 : 31-May-2022 to 7-June-2022**
 
 ##   Enhancement Project
 ### Claim Management Project
