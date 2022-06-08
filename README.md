@@ -43,7 +43,7 @@
 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-*Week7 : 15-March-2022 to 22-March-2022* 
+**Week7 : 15-March-2022 to 22-March-2022** 
    ##  C#
 
 - Continued the learning of C#. 
@@ -55,7 +55,7 @@
 <br>
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-*Week8 : 23-March-2022 to 29-March-2022* 
+**Week8 : 23-March-2022 to 29-March-2022**
    ##  ADO.net
 
 - Went through the ADO.NETarning pdf given by the Company and learnt about its objects.
@@ -67,7 +67,7 @@
 <br> 
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-*Week9 : 30-March-2022 to 5-April-2022* 
+**Week9 : 30-March-2022 to 5-April-2022* 
    ##  Data Structures
    
 - Went through the Data Structures concept through Udemy Lectures.
@@ -79,7 +79,7 @@
 <br>  
 
 <!----------------------------------------------------------------------------------------------------------------------------->
-*Week10 : 6-April-2022 to 12-April-2022* 
+**Week10 : 6-April-2022 to 12-April-2022**
    ##  Data Structures
    
 - Continued the learning of Data Structures from Udemy. 
@@ -153,13 +153,10 @@ As a platform, Angular includes:
 -  A collection of well-integrated libraries that cover a wide variety of features, including routing, forms management, client-server communication, and more
 -  A suite of developer tools to help you develop, build, test, and update your code
 
-### Angular essential Components
 
-- Component
-- Templates
-- Dependency Injection
 
--- Dependency injection lets you declare the dependencies of your TypeScript classes without taking care of their instantiation. Instead, Angular handles the instantiation for you. This design pattern lets you write more testable and flexible code. Even though understanding dependency injection is not critical to start using Angular, we strongly recommend it as a best practice and many aspects of Angular take advantage of it to some degree.
+
+
 
 
 
@@ -179,8 +176,9 @@ As a platform, Angular includes:
 **Week17 : 31-May-2022 to 7-June-2022**
 
 ##   Enhancement Project
+### Claim Management Project
 
-- we were given a project and we have to study and add new festures and run on our local system
+- Project was alloted to us and we had to add features to the existing project .
 
 
 
