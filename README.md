@@ -12,10 +12,12 @@
 - Database Concepts
 - Deadlocks
 - Microservices
+
 Gone through all the listed concepts 
 <br>
 <!----------------------------------------------------------------------------------------------------------------------------->
-**Week 2 : 9-Feb-2022 to 15-Feb-2022** 
+
+**Week 2 : 9-Feb-2022 to 15-Feb-2022 ** 
 
 ## User Interface Design (HTML5 & CSS3)
 
