@@ -76,6 +76,7 @@ As a platform, Angular includes:
 <!----------------------------------------------------------------------------------------------------------------------------->
 **Week17 : 31-May-2022 to 7-June-2022**
 ##   Enhancement Project
+-  we were given a project and we have to study and add new festures and run on our local system
 
 
 
