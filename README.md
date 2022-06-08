@@ -47,7 +47,7 @@ JavaScript is a high-level, often just-in-time compiled language that conforms t
 
 ### Brief Intro about JQuery
 
-jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.
+JQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.
 
 - Started with the *introduction to Jquery, Element Selectors, Manipulating the DOM  I –Inserting,Replacing and Removing Elements, Manipulating the DOM II –Changing Element Data and CSS*
 - Then went on to learn about Events(Handling Mouse Events & Keyboard Events) and Forms
